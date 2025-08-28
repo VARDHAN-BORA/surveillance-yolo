@@ -14,7 +14,7 @@ Built with **Ultralytics YOLOv8, OpenCV, and Streamlit**.
 ---
 
 ## 🖥️ Demo Screenshot
-![Demo Screenshot](assets/demo.png)  <!-- (you can upload your screenshot here) -->
+![Demo Screenshot](demo.png)  <!-- (you can upload your screenshot here) -->
 
 ---
 
